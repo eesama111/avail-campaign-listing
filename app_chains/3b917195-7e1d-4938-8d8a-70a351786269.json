@@ -1,0 +1,8 @@
+{
+	  "name": "leetest01",
+	    "logo": "https://i.postimg.cc/90Vmw8Qv/23-apples.jpg",
+	      "rpc_url": "http://45.77.32.239:9944",
+	        "explorer_url": "http://45.77.32.239:4000",
+		  "metrics_endpoint": "http://45.77.32.239:9615/metrics",
+		    "id": "3b917195-7e1d-4938-8d8a-70a351786269"
+}
